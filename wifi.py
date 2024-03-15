@@ -5,8 +5,8 @@ import socket
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
 
-ssid = "Inetcom_265"
-pw = "THfu87K*MHiCbG2%Nqn0eQ~5A"
+ssid = ""
+pw = ""
 
 
 
