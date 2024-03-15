@@ -14,8 +14,8 @@ uart = UART(1, baudrate=9600, tx=Pin(4), rx=Pin(5))
 uart.init(bits=8, parity=None, stop=1)
 
 
-ssid = "Inetcom_265"
-pw = "THfu87K*MHiCbG2%Nqn0eQ~5A"
+ssid = "ur ssid"
+pw = "ur wifi password"
 
 decoded_trigger = ''
 wlan.connect(ssid, pw)
