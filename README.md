@@ -10,14 +10,15 @@
 
 
 #------ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ И ПРИМЕРНЫЙ ВИД УСТРОЙСТВ-------
-![alt text](https://imgur.com/a/U8S5wWj) 
+
+![alt text](https://i.imgur.com/Bn6t3c2.jpeg) 
 доплеровский датчик 
 
-![alt text](https://imgur.com/a/LjN6RMw)
+![alt text](https://i.imgur.com/nt3sy1D.jpeg)
 DHT11
 
-![alt text](https://imgur.com/a/iBTvjTm)
+![alt text](https://i.imgur.com/Ahoigrt.jpeg)
 хаб - led панель
 
-![alt text](https://imgur.com/a/RoDncO9)
+![alt text](https://i.imgur.com/Tck8Fbx.jpeg)
 TEMT6000
